@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Durga Prasad Bobbara and I'm a passionate about Frontend Developer and Backend Developer, from Kakinada,AP</h2>
-
 ###
 
 <div align="center">
